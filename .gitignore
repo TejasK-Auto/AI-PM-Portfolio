@@ -1,0 +1,15 @@
+# Course materials and prompts are local references, not portfolio content.
+/Module 1 PDFS/
+/Module 2 PDFS/
+/Module 3 PDFS/
+/Module 4 PDFS/
+/Prompts/
+/*.pdf
+
+# The browser games are maintained in a separate Git repository.
+/memory-game-GHCP/
+
+# Local editor and operating-system files.
+/.vscode/
+.DS_Store
+Thumbs.db
